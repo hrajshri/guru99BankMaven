@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="test-output//BankWebsite2" verbose="1" >
+  <test name="AUTOXML" >
+    <classes>
+       <class name="AutomationFramework.SignIn" />
+       
+       <class name="AutomationFramework.Deposit_Money" />
+       <class name="AutomationFramework.Withdraw_Money" />
+       <class name="AutomationFramework.MiniStatement" />
+       <class name="AutomationFramework.Customised_Statement" />
+    </classes>
+  </test>
+</suite>

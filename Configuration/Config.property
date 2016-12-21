@@ -1,0 +1,25 @@
+URL=http://www.demo.guru99.com/V4/index.php
+username=mngr51327
+password=EzejEqU
+setBrowser=webdriver.chrome.driver
+chromePath=E:\\Eclipse\\Eclipse Neon\\Selenium utility\\chromedriver\\chromedriver.exe
+IEPath=E:\\Eclipse\\Eclipse Neon\\Selenium utility\\chromedriver\\chromedriver.exe
+testDataInExcel=E:\\Eclipse\\Eclipse Neon\\Eclipseworkspace\\Guru99Bank\\TestData\\TestDataExcel2.xlsx
+errorMsgInTxtFile=E:\\Eclipse\\Eclipse Neon\\Eclipseworkspace\\Guru99Bank\\TestData\\Error.txt
+CustID_CustName=E:\\Eclipse\\Eclipse Neon\\Eclipseworkspace\\Guru99Bank\\TestData\\CustID_CustName.txt
+Mini_Statement=E:\\Eclipse\\Eclipse Neon\\Eclipseworkspace\\Guru99Bank\\TestData\\Mini_Statement.txt
+
+sysAdminusername=sysadmin
+sysAdminpassword=sysadmin
+custName=Haridwar Rajshri
+address=2552N 124TH ST WAUWATOSA, WI, 53226
+pin=53226
+city=WAUWATOSA
+state=WI
+DOB=09/25/1989
+email=haridwar.rajshri@gmail.com
+mob=4145950858
+email=haridwar.rajshri0925@gmail.com
+invalidData1=09/25/**
+invalidData2=Haridwar123
+invalidData3=Haridwar#

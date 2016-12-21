@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [test-output//BankWebsite2]">
+  <test name="AUTOXML(failed)">
+    <classes>
+      <class name="AutomationFramework.Customised_Statement">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="Logout_exitBrowser"/>
+          <include name="Customised_Statement_Get_Entries_Form_Test"/>
+          <include name="LoginTest"/>
+          <include name="Customised_Statement_Get_Entries_Test"/>
+          <include name="Customised_Statement_Click_Test"/>
+        </methods>
+      </class> <!-- AutomationFramework.Customised_Statement -->
+      <class name="AutomationFramework.Deposit_Money">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="initialization"/>
+          <include name="write_Deposit_Amount_Log_To_TxtFile"/>
+          <include name="Logout_exitBrowser"/>
+          <include name="Deposit_Form_Test"/>
+          <include name="Deposit_Click_Test"/>
+        </methods>
+      </class> <!-- AutomationFramework.Deposit_Money -->
+      <class name="AutomationFramework.MiniStatement">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="MiniStatement_Get_Entries_Test"/>
+          <include name="MiniStatement_Get_Entries_Form_Test"/>
+          <include name="MiniStatement_Click_Test"/>
+          <include name="Logout_exitBrowser"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- AutomationFramework.MiniStatement -->
+      <class name="AutomationFramework.Withdraw_Money">
+        <methods>
+          <include name="Deposit_Form_Test"/>
+          <include name="beforeTest"/>
+          <include name="initialization"/>
+          <include name="write_Deposit_Amount_Log_To_TxtFile"/>
+          <include name="Deposit_Click_Test"/>
+          <include name="Logout_exitBrowser"/>
+        </methods>
+      </class> <!-- AutomationFramework.Withdraw_Money -->
+    </classes>
+  </test> <!-- AUTOXML(failed) -->
+</suite> <!-- Failed suite [test-output//BankWebsite2] -->
