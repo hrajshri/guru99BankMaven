@@ -1,0 +1,30 @@
+
+Transaction Details for Account No: 18616 from Date: 2016-10-01 to: 2016-10-31         |        
+Transaction ID|      Amount        | Transaction Type | Date of Transaction       |        Description     |    
+37221         |        1000         |        D         |        2016-10-15         |        Initial Deposit         |        
+37222         |        500         |        d         |        2016-10-15         |        Home Rent         |        
+37223         |        600         |        w         |        2016-10-15         |        Rent         |        
+37230         |        300         |        w         |        2016-10-16         |        current         |        
+37229         |        800         |        d         |        2016-10-16         |        savingss         |        
+37226         |        400         |        d         |        2016-10-16         |        dues recrd         |        
+37225         |        200         |        w         |        2016-10-16         |        expenditur         |        
+37224         |        700         |        d         |        2016-10-16         |        transfer         |        
+37312         |        400         |        w         |        2016-10-17         |        Grocery         |        
+37313         |        700         |        w         |        2016-10-17         |        Rent         |        
+37314         |        400         |        w         |        2016-10-17         |        Grocery         |        
+37315         |        700         |        w         |        2016-10-17         |        Rent         |        
+37316         |        400         |        w         |        2016-10-17         |        Grocery         |        
+37317         |        700         |        w         |        2016-10-17         |        Rent         |        
+37318         |        400         |        w         |        2016-10-17         |        Grocery         |        
+37311         |        400         |        w         |        2016-10-17         |        grocery         |        
+37310         |        400         |        d         |        2016-10-17         |        grocery         |        
+37309         |        300         |        w         |        2016-10-17         |        Grocery         |        
+37302         |        700         |        d         |        2016-10-17         |        eeeeee         |        
+37303         |        700         |        d         |        2016-10-17         |        Rent         |        
+37304         |        700         |        d         |        2016-10-17         |        Rent         |        
+37305         |        700         |        d         |        2016-10-17         |        Rent         |        
+37306         |        700         |        d         |        2016-10-17         |        Rent         |        
+37307         |        700         |        d         |        2016-10-17         |        Rent         |        
+37308         |        400         |        d         |        2016-10-17         |        grocery         |        
+37336         |        400         |        w         |        2016-10-18         |        Grocery         |        
+37337         |        700         |        w         |        2016-10-18         |        Rent         |        

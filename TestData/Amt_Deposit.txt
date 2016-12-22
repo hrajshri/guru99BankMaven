@@ -1,0 +1,9 @@
+
+-----------------------------------------------------------------------------
+Customer ID  	:  51758
+Cust   Name  	:  Sameer Reddy
+Account  ID  	:  18616
+Acount type  	:  Savings
+Date of Opening	:  2016-10-15
+Current Amount	:  1000
+Amt Depostd  	:	

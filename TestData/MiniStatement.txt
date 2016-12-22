@@ -1,0 +1,8 @@
+
+Last Five Transaction Details for Account No: 18616         |        
+Transaction ID|      Amount        | Transaction Type | Date of Transaction       |        Description     |    
+37318         |        400         |        w         |        2016-10-17         |        Grocery         |        
+37317         |        700         |        w         |        2016-10-17         |        Rent         |        
+37316         |        400         |        w         |        2016-10-17         |        Grocery         |        
+37315         |        700         |        w         |        2016-10-17         |        Rent         |        
+37314         |        400         |        w         |        2016-10-17         |        Grocery         |        

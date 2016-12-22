@@ -1,0 +1,41 @@
+
+Transaction details of Withdrawal for Account 18616         |
+Transaction ID         |37312         |
+Account No         |18616         |
+Amount Debited         |400         |
+Type of Transaction         |Withdrawal         |
+Description         |Grocery         |
+Current Balance         |6200         |
+*********************************************************************         |
+Transaction details of Withdrawal for Account 18616         |
+Transaction ID         |37314         |
+Account No         |18616         |
+Amount Debited         |400         |
+Type of Transaction         |Withdrawal         |
+Description         |Grocery         |
+Current Balance         |5100         |
+*********************************************************************         |
+Transaction details of Withdrawal for Account 18616         |
+Transaction ID         |37316         |
+Account No         |18616         |
+Amount Debited         |400         |
+Type of Transaction         |Withdrawal         |
+Description         |Grocery         |
+Current Balance         |4000         |
+*********************************************************************         |
+Transaction details of Withdrawal for Account 18616         |
+Transaction ID         |37318         |
+Account No         |18616         |
+Amount Debited         |400         |
+Type of Transaction         |Withdrawal         |
+Description         |Grocery         |
+Current Balance         |2900         |
+*********************************************************************         |
+Transaction details of Withdrawal for Account 18616         |
+Transaction ID         |37336         |
+Account No         |18616         |
+Amount Debited         |400         |
+Type of Transaction         |Withdrawal         |
+Description         |Grocery         |
+Current Balance         |2500         |
+*********************************************************************         |
